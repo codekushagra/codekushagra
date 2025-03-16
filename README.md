@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **LMS Project**
+- 🔭 I’m currently working on **Ai Powered Waste Management System**
 
-- 🌱 I’m currently learning **MongoDb and Backend functionalities**
+- 🌱 I’m currently learning **PERN Stack**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **React , NodeJs**
+- 💬 Ask me about **MERN Stack , Core Java**
 
 - 📫 How to reach me **kushagra.chaturvedi.bhargava@gmail.com**
 
