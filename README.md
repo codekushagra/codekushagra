@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ai Powered Waste Management System**
 
-- 🌱 I’m currently learning **PERN Stack**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
