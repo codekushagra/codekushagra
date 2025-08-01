@@ -107,6 +107,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codekushagra&show_icons=true&locale=en" alt="github-stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekushagra" alt="github-streak" />
-</p>
