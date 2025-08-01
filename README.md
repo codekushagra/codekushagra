@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=codekushagra&theme=light)
 <h1 align="center">Hi 👋, I'm Kushagra Chaturvedi</h1>
 <h3 align="center">A passionate frontend and learning backend developer from India</h3>
