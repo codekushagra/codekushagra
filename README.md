@@ -24,9 +24,7 @@
 I'm a passionate developer from India who enjoys building **modern web applications, backend systems, and automated testing solutions**.
 
 - 💼 Currently working as a **QE at Coforge**
-- 🧪 Exploring **Playwright & Test Automation**
-- 🌱 Currently strengthening my **Java & Spring Boot** skills
-- 💻 Experienced with **MERN Stack & Core Java**
+- 💻 Experienced with **MERN Stack & Core Java* & Spring Boot **
 - 🚀 Interested in **Full Stack Development & Quality Engineering**
 - 🤝 Open to collaborating on interesting **Full Stack & Automation projects**
 - 📫 Reach me at **kushagra.chaturvedi.bhargava@gmail.com**
